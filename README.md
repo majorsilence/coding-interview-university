@@ -430,7 +430,7 @@ OR:
     - **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently.
     - aka CLR, sometimes CLRS, because Stein was late to the game
 
-- [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [x] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
     - The first couple of chapters present clever solutions to programming problems (some very old using data tape) but
       that is just an intro. This a guidebook on program design and architecture, much like Code Complete, but much shorter.
 
